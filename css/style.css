@@ -14,7 +14,7 @@ body{
     position: relative;
     overflow: hidden;
     height: 90vh;
-    width: clamp(320px, 48%, 1200px);
+    width: clamp(320px, 40%, 1200px);
     display: flex;
     align-items: center;
     flex-direction: column;
